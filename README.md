@@ -29,5 +29,5 @@ My goals:
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A4EA&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=and+also+I+love+board+games" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A4EA&background=FFFFFF00&center=true&vCenter=true&random=false&width=800&lines=and+also+I+love+board+games+%CB%9A%CB%96%F0%93%8D%A2%D6%B4%E0%BB%8B%F0%9F%8C%B7%CD%99%D6%92%E2%9C%A7%CB%9A.%F0%9F%8E%80%E0%BC%98%E2%8B%86" alt="Typing SVG" /></a>
 
