@@ -25,11 +25,10 @@ My goals:
 
 <h2 align="center">🛠️ Stack </h2>
 <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px; height:40px;"/>
-
-  
 </div>
 
-  
+<h2></h2>
+
 <div align="center"> 
 
   
