@@ -9,7 +9,7 @@ My goals:
 * work on intresting projects
 * work in friendly development team
 * contribute to the success of the company
-* 
+  
 <h2 align="center">. ₊˚ ☎︎₊˚✧ ﾟ. Contacts</h2>
 <div align="center">
   <a href="mailto:polinaavdeeva55@gmail.com" target="_blank">
@@ -28,4 +28,6 @@ My goals:
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A4EA&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=and+also+I+love+board+games" alt="Typing SVG" /></a>
 
