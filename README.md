@@ -13,7 +13,7 @@ My goals:
 <h2 align="center">. ₊˚ ☎︎₊˚✧ ﾟ. Contacts</h2>
 <div align="center">
   <a href="mailto:polinaavdeeva55@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/415213/email-files-letter.svg" alt="Polina Avdeeva" height="40" width="40">
+    <img src="https://www.svgrepo.com/show/429690/email-message.svg" alt="Polina Avdeeva" height="40" width="40">
   </a>
   <a href="https://t.me/pioqxx" target="_blank">
     <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Polina Avdeeva" height="40" width="40">
@@ -25,16 +25,8 @@ My goals:
 ---
 <h2 align="center">🛠️ Stack</h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="width:40px; height:40px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px; height:40px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="width:40px; height:40px;"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px; height:40px;"/>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</div>
+
