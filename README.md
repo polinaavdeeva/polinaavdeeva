@@ -1,6 +1,6 @@
 <h2 align="center">
 <p>Hello👋</p>
-<p>My name is Polina, and I'm frontend developer</p>
+<p>My name is Polina, and I'm frontend developer/Node.js developer</p>
 </h2>
 
 My goals:
